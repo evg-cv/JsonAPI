@@ -2,17 +2,13 @@
 
 ## Overview
 
-This project is to implement the several interactions with JsonPlaceholderAPI and test each functionality.
+This project is to implement the several interactions with JsonPlaceholderAPI.
 
 ## Structure
 
 - app
 
     The main execution file to implement all the interactions with API
-
-- app_test
-
-    The file to test all the functions
     
 - requirements
 
@@ -26,7 +22,7 @@ This project is to implement the several interactions with JsonPlaceholderAPI an
 
 - Environment
 
-    Python 3.8, Windows 10, Ubuntu 18.04+
+    Python 3.6, Ubuntu 18.04+
     
 - Dependency Installation
 
@@ -42,10 +38,4 @@ This project is to implement the several interactions with JsonPlaceholderAPI an
 
     ```
         python3 app.py
-    ```
-
-- To test all the methods, please run the following command in the terminal.
-
-    ```
-        pytest app_test.py
     ```
